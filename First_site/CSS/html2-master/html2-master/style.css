@@ -1,0 +1,25 @@
+h1{color: pink}
+#about_blue{
+  background-color: #6495ED;}
+
+.blue_list{
+  color:blue;
+}
+#about_yellow{
+  background-color: #FFEBCD;
+}
+.Orange_list{
+  color: orange;
+}
+.solid_border{
+  border-style: solid;
+  border-width:3px;}
+
+.important{
+  font:16px;
+}
+
+.nav a{
+  background-color: red;
+  color: white;
+}
